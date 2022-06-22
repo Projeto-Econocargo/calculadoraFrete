@@ -1,0 +1,22 @@
+{
+  "name": "calculadora-de-frete",
+  "version": "1.0.0",
+  "description": "Calculadora de fretes",
+  "main": "calculadora.js",
+  "scripts": {
+    "start": "nodemon calculadora.js"
+  },
+  "keywords": [
+    "Calculadora",
+    "para",
+    "fretes",
+    "rodoviários"
+  ],
+  "author": "Pablo Belmiro",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
